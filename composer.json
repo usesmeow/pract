@@ -1,0 +1,11 @@
+{
+    "name": "roman/pract",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "photos\\": ""
+        }
+    }
+}
